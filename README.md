@@ -19,7 +19,7 @@ A powerful chatbot that can answer all your questions built using LLMWARE integr
    python chatbot.py
    ```
 
-4. **If you want want to use tkinter based ui, then
+4. **If you want want to use tkinter based ui, then**
    ```bash
    cd ../ && cd Chatbot_UI && python ChatbotGUI_Modern.py
    ```
